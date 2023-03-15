@@ -1,0 +1,26 @@
+# The message that a player will see when executes /lobby or /hub
+# You can type {SERVER} to tell the player where did he teleport to.
+message: "&6You have been teleported to {SERVER}!"
+
+# A player who is already connected to one of your lobby servers will see this message.
+# Also, you can type {SERVER} to say the server to which the player has been teleported.
+already-connected: "&cYou are already connected to this server!"
+
+# The message that a player will receive if there aren't any lobby servers online.
+no-servers-available: "&cThere aren't lobby servers available for now!"
+
+# This command applies when the user executes '/lobby <lobby_name>' and the server typed is not in the lobby list or if it doesn't exist.
+# The message that a player will receive if the specified
+inexistent-lobby: "&cThat lobby does not exist!"
+
+# When the user types more than 2 arguments. For example, '/hub lobby1 hehea boi'.
+invalid-command: "&cInvalid arguments."
+
+# Here you must put the lobby server/s.
+# If there are multiple servers, the player will be teleported randomly to one of them.
+lobby-servers:
+  # - "lobby"
+  - "Tnt"
+
+# This is the message that a player can see if execute /lobby or /hub on a disabled server.
+disabled-server-message: "&cYou cannot use this command on {SERVER}!"

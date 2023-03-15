@@ -1,0 +1,22 @@
+###################################################
+#              LobbyCord by FaultedDev            #
+###################################################
+
+
+
+#This is the server the people are sent to.
+#(WARNING: It must be EXACTLY the same as in BungeeCord's config)
+Hub-Server: lobby1
+
+Connected: '&aYou are already in the lobby.'
+Already-Connected: '&cAlready connected to this server!'
+Disabled-Command: '&cSorry, but this command has been disabled!'
+
+#Here you can add the commands to be sent to the lobby.
+Hub-Commands:
+  - /lobby
+  - /hub
+
+#Servers this command cannot be used in:
+Deny-Servers:
+  - 'prelobby'
