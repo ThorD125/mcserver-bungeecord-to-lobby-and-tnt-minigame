@@ -1,0 +1,65 @@
+21:32:01 [INFO] Using standard Java JCE cipher.
+21:32:01 [INFO] Using standard Java compressor.
+21:32:01 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.19-R0.1-SNAPSHOT:7790783:1686
+21:32:01 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+
+21:32:01 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+
+21:32:01 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+
+21:32:01 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+
+21:32:01 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+
+21:32:01 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+21:32:01 [INFO] Attempting to update plugin from null to ModuleVersion(build=1686, git=7790783)
+
+21:32:01 [INFO] Attempting to Jenkins download module cmd_alert v1686
+
+21:32:01 [INFO] Download complete
+
+21:32:01 [INFO] Attempting to update plugin from null to ModuleVersion(build=1686, git=7790783)
+
+21:32:01 [INFO] Attempting to Jenkins download module cmd_find v1686
+
+21:32:02 [INFO] Download complete
+
+21:32:02 [INFO] Attempting to update plugin from null to ModuleVersion(build=1686, git=7790783)
+
+21:32:02 [INFO] Attempting to Jenkins download module cmd_list v1686
+
+21:32:02 [INFO] Download complete
+
+21:32:02 [INFO] Attempting to update plugin from null to ModuleVersion(build=1686, git=7790783)
+
+21:32:02 [INFO] Attempting to Jenkins download module cmd_send v1686
+
+21:32:02 [INFO] Download complete
+
+21:32:02 [INFO] Attempting to update plugin from null to ModuleVersion(build=1686, git=7790783)
+
+21:32:02 [INFO] Attempting to Jenkins download module cmd_server v1686
+
+21:32:03 [INFO] Download complete
+
+21:32:03 [INFO] Attempting to update plugin from null to ModuleVersion(build=1686, git=7790783)
+
+21:32:03 [INFO] Attempting to Jenkins download module reconnect_yaml v1686
+
+21:32:03 [INFO] Download complete
+
+21:32:03 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:7790783:1686 by SpigotMC
+21:32:03 [INFO] Loaded plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:7790783:1686 by SpigotMC
+21:32:03 [INFO] Loaded plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:7790783:1686 by SpigotMC
+21:32:03 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:7790783:1686 by SpigotMC
+21:32:03 [INFO] Loaded plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:7790783:1686 by SpigotMC
+21:32:03 [INFO] Loaded plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:7790783:1686 by SpigotMC
+21:32:03 [WARNING] Forced host server pvp is not defined
+21:32:03 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:7790783:1686 by SpigotMC
+21:32:03 [INFO] Enabled plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:7790783:1686 by SpigotMC
+21:32:03 [INFO] Enabled plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:7790783:1686 by SpigotMC
+21:32:03 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:7790783:1686 by SpigotMC
+21:32:03 [INFO] Enabled plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:7790783:1686 by SpigotMC
+21:32:03 [INFO] Enabled plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:7790783:1686 by SpigotMC
+21:32:03 [INFO] Listening on /0.0.0.0:25577
